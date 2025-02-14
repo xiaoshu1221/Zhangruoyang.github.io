@@ -34,17 +34,28 @@ redirect_from:
 <span class='anchor' id='News'></span>
 
 # 🔥 新闻动态
-- **[2025/02]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>TETCI (中科院3区)</strong></font> 录用！
-- **[2025/01]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国内学术期刊 <font color="#003399"><strong>计算机研究与发展 (CCF中文T1类)</strong></font> 录用！
+- **[2025/02]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Transactions on Emerging Topics in Computing (TETC, 中科院2区)</strong></font> 录用！
+- **[2025/01]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被中文学术期刊 <font color="#003399"><strong>计算机研究与发展 (CCF中文T1类)</strong></font> 录用！
 - **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被 <font color="#003399"><strong>CCF CIVS 2024</strong></font> 录用，并获得 <font color="red"><strong>Best Student Paper Award（最佳学生论文奖）</strong></font>！
+- **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Transactions on Industrial Cyber-Physical Systems (TICPS)</strong></font> 录用！
+- **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>International Journal of Intelligent Systems (IJIS, 中科院2区)</strong></font>  录用！
 - **[2024/09]** <font color="red"><strong>喜报!</strong></font> 实验室2篇论文被国际学术会议 <font color="#003399"><strong>ADMA 2024 (CCF-C)</strong></font> 录用！
 - **[2024/09]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>Symmetry (中科院3区)</strong></font> 录用！
 - **[2024/05]** <font color="red"><strong>喜报!</strong></font> 实验室2篇论文被国际学术会议 <font color="#003399"><strong>KSEM 2024 (CCF-C)</strong></font> 录用！
+- **[2024/03]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Transactions on Reliability (TRE, 中科院2区)</strong></font>  录用！
 - **[2024/02]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Network (中科院2区)</strong></font>  录用！
 - **[2024/02]** <font color="red"><strong>祝贺!</strong></font> 实验室3名学生获得北京交通大学计算机科学与信息技术学院 <font color="#003399"><strong>企业专项奖学金</strong></font> ！
 - **[2023/07]** <font color="red"><strong>祝贺!</strong></font> 实验室2名学生荣获中国网络空间安全人才教育联盟 <font color="#003399"><strong>A级安全众测专业人员认证</strong></font> ！
+- **[2023/06]** <font color="red"><strong>祝贺!</strong></font> 实验室两组本科生大创项目获评 <font color="#003399"><strong>国家级大学生创新创业训练计划项目</strong></font>！**新闻链接：**[[祝贺实验室指导的两组本科生大创项目获评国家级大学生创新创业训练计划项目](https://mp.weixin.qq.com/s/-siG2Et1R3KRhsQDjM7olQ)].
+- **[2023/06]** <font color="red"><strong>祝贺!</strong></font> 实验室3名学生在 <font color="#003399"><strong>创客行动-2022大数据应用挑战赛</strong></font> 中获得长城互联网赛区通道二赛题组“WD12非结构化文本数据特征识别和智能分析”三等奖！**新闻链接：**[[祝贺实验室获得创客行动-2022大数据应用挑战赛长城互联网赛区通道二赛题组三等奖](https://mp.weixin.qq.com/s?__biz=Mzg3Njc1OTk2Mw==&mid=2247484311&idx=1&sn=a1176030c75e883618fd32b19ede2748&scene=19#wechat_redirect)].
+- **[2023/03]** <font color="red"><strong>祝贺!</strong></font> 实验室“0x308”战队在 <font color="#003399"><strong>第二届创安杯智能汽车信息安全公开赛</strong></font> 中荣获创安奖！**新闻链接：**[[实验室"0x308"战队荣获第二届"创安杯"智能汽车信息安全公开赛创安奖](https://mp.weixin.qq.com/s/iK88shI3WYdtR7YL7GZGHQ)].
+- **[2023/01]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被人工智能领域国际顶级会议 <font color="#003399"><strong>IJCAI (CCF-A)</strong></font>  录用！
 - **[2022/08]** <font color="red"><strong>祝贺!</strong></font> 实验室“六出祁山”战队荣获在 <font color="#003399"><strong>第30届DEF CON自动驾驶CTF全球挑战赛</strong></font> 中荣获亚军！ **新闻链接：**[[“六出祁山”战队@北京交通大学](https://cs.bjtu.edu.cn/jdxw/202301310.htm)], [[白泽战队@复旦大学](https://secsys.fudan.edu.cn/ff/46/c26973a458566/page.htm)].
+- **[2022/07]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>Tsinghua Science and Technology (中科院1区)</strong></font>  录用！
+- **[2022/07]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Transactions on Artificial Intelligence (TAI)</strong></font>  录用！
+
 - **[2022/03]** <font color="red"><strong>祝贺!</strong></font> 实验室成员参加北京冬奥会、冬残奥会的安全演练活动，为相应信息系统加固及安全运行作出了贡献，荣获团体一等奖！**新闻链接：**[[计算机学院信安团队参与冬奥卫士演练活动荣获一等奖](https://cs.bjtu.edu.cn/jdxw/202301276.htm)].
+- **[2022/03]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Transactions on Green Communications and Networking (TGCN, 中科院2区)</strong></font>  录用！
 - **[2022/02]** <font color="red"><strong>祝贺!</strong></font> 实验室成员参加国家重大网络安全试验测试活动，荣获感谢信！**新闻链接：**[[计算机学院信安团队参与国家重大网络安全试验测试活动获感谢信](https://cs.bjtu.edu.cn/jdxw/202301273.htm)].
 - **[2021/08]** <font color="red"><strong>祝贺!</strong></font> 实验室“六出祁山”战队在 <font color="#003399"><strong>第29届DEF CON自动驾驶CTF全球挑战赛</strong></font> 中荣获亚军（满分）！**新闻链接：**[[“六出祁山”战队@北京交通大学](https://cs.bjtu.edu.cn/jdxw/202301241.htm)], [[Cacti@纽约州立大学布法罗分校](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@清华大学](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)].
 
