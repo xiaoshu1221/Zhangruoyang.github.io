@@ -12,7 +12,7 @@ redirect_from:
 
 <div style="background-image: url('images/background.png');background-size: cover;height: 160px;width: 100%">
   <div style="width:70%;background-color:#eeeeee;opacity:0.6;margin-top:16px;padding-left:15px;float:left;">
-  <p style="font-size:24px;font-weight:bold;margin-top:10px;">北京交通大学人工智能安全实验室（BJTU THETA Lab）</p>
+  <p style="font-size:24px;font-weight:bold;margin-top:10px;">北京交通大学人工智能安全实验室（THETA@BJTU）</p>
   <p style="font-size:14px;font-weight:bold;">
   	研究组隶属北京交通大学·网络空间安全学院，长期从事人工智能安全的研究。<br />
     团队依托智能交通数据安全与隐私保护技术北京市重点实验室，关注智能交通、自动驾驶等前沿领域。<br />
