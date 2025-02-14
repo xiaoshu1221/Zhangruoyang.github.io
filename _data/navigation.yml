@@ -6,8 +6,8 @@ main:
   - title: "新闻动态"
     url: "#News"
 
-  - title: "团队概况"
-    url: "#About-Me"
+  # - title: "团队概况"
+    # url: "#About-Me"
 
   # - title: "科研方向"
     # url: "#Research"
