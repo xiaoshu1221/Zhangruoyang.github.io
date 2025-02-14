@@ -35,7 +35,7 @@ redirect_from:
 
 # 🔥 新闻动态
 - **[2025/02]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Transactions on Emerging Topics in Computing (TETC, 中科院2区)</strong></font> 录用！
-- **[2025/01]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被中文学术期刊 <font color="#003399"><strong>计算机研究与发展 (CCF中文T1类)</strong></font> 录用！
+- **[2025/01]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被中文顶级学术期刊 <font color="#003399"><strong>计算机研究与发展 (CCF中文T1类)</strong></font> 录用！
 - **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被 <font color="#003399"><strong>CCF CIVS 2024</strong></font> 录用，并荣获 <font color="red"><strong>Best Student Paper Award（最佳学生论文奖）</strong></font>！
 - **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Transactions on Industrial Cyber-Physical Systems (TICPS)</strong></font> 录用！
 - **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>International Journal of Intelligent Systems (IJIS, 中科院2区)</strong></font>  录用！
@@ -50,7 +50,9 @@ redirect_from:
 - **[2023/06]** <font color="red"><strong>祝贺!</strong></font> 实验室3名学生在 <font color="#003399"><strong>创客行动-2022大数据应用挑战赛</strong></font> 中获得长城互联网赛区通道二赛题组“WD12非结构化文本数据特征识别和智能分析”三等奖！**新闻链接：**[[祝贺实验室获得创客行动-2022大数据应用挑战赛长城互联网赛区通道二赛题组三等奖](https://mp.weixin.qq.com/s?__biz=Mzg3Njc1OTk2Mw==&mid=2247484311&idx=1&sn=a1176030c75e883618fd32b19ede2748&scene=19#wechat_redirect)].
 - **[2023/03]** <font color="red"><strong>祝贺!</strong></font> 实验室“0x308”战队在 <font color="#003399"><strong>第二届创安杯智能汽车信息安全公开赛</strong></font> 中荣获创安奖！**新闻链接：**[[实验室"0x308"战队荣获第二届"创安杯"智能汽车信息安全公开赛创安奖](https://mp.weixin.qq.com/s/iK88shI3WYdtR7YL7GZGHQ)].
 - **[2023/01]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被人工智能领域国际顶级会议 <font color="#003399"><strong>IJCAI (CCF-A)</strong></font>  录用！
+- **[2022/11]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被中文顶级学术期刊 <font color="#003399"><strong>软件学报 (CCF中文T1类)</strong></font> 录用！
 - **[2022/09]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>Security and Communication Networks (SCN, CCF-C)</strong></font>  录用！
+- **[2025/01]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被中文顶级学术期刊 <font color="#003399"><strong>计算机学报 (CCF中文T1类)</strong></font> 录用！
 - **[2022/08]** <font color="red"><strong>祝贺!</strong></font> 实验室“六出祁山”战队荣获在 <font color="#003399"><strong>第30届DEF CON自动驾驶CTF全球挑战赛</strong></font> 中荣获亚军！ **新闻链接：**[[“六出祁山”战队@北京交通大学](https://cs.bjtu.edu.cn/jdxw/202301310.htm)], [[白泽战队@复旦大学](https://secsys.fudan.edu.cn/ff/46/c26973a458566/page.htm)].
 - **[2022/07]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>Tsinghua Science and Technology (中科院1区)</strong></font>  录用！
 - **[2022/07]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Transactions on Artificial Intelligence (TAI)</strong></font>  录用！
