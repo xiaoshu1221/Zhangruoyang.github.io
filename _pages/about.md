@@ -66,8 +66,8 @@ redirect_from:
 - **[2021/08]** <font color="red"><strong>祝贺!</strong></font> 实验室“六出祁山”战队在 <font color="#003399"><strong>第29届DEF CON自动驾驶CTF全球挑战赛</strong></font> 中荣获亚军（满分）！**新闻链接：**[[“六出祁山”战队@北京交通大学](https://cs.bjtu.edu.cn/jdxw/202301241.htm)], [[Cacti@纽约州立大学布法罗分校](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html)], [[Redbud@清华大学](https://netsec.ccert.edu.cn/eng/hacking/2021-08-06-autodrive-defcon)].
 - **[2021/07]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术会议 <font color="#003399"><strong>ICICS 2021 (CCF-C)</strong></font>  录用！
 - **[2021/07]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>Security and Communication Networks (SCN, CCF-C)</strong></font>  录用！
-- **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>International Journal of Intelligent Systems (IJIS, 中科院2区)</strong></font>  录用！
 - **[2021/03]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术会议 <font color="#003399"><strong>Inscrypt 2021 (CCF-C)</strong></font>  录用！
+- **[2021/02]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>International Journal of Intelligent Systems (IJIS, 中科院2区)</strong></font>  录用！
 - **[2020/12]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术会议 <font color="#003399"><strong>ISPA 2020 (CCF-C)</strong></font>  录用！
 - **[2020/12]** <font color="red"><strong>喜报!</strong></font> 实验室2篇论文被国际学术会议 <font color="#003399"><strong>ICPADS 2020 (CCF-C)</strong></font>  录用！
 - **[2020/12]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>Wireless Communications and Mobile Computing (WCMC, CCF-C)</strong></font>  录用！
