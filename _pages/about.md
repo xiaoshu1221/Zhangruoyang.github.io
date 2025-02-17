@@ -42,9 +42,14 @@ redirect_from:
 
 
 
+
 <span class='anchor' id='News'></span>
 
 # 🔥 新闻动态
+- **[置顶]** **2025年人工智能安全实验室 (THETA Lab@BJTU) 招生启事:** 欢迎对<font color="#003399"><b>人工智能安全</b></font>、<font color="#003399"><b>大模型安全</b></font>等方向感兴趣的同学 (<font color="E56700"><b>25年秋入学的统考硕士/博士生</b></font>、<font color="E56700"><b>26年秋入学的推免硕士/统考硕士/博士生</b></font>) 报考人工智能安全实验室！实验室期待更多优秀同学的加入！
+
+---
+
 - **[2025/02]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Transactions on Emerging Topics in Computing (TETC, 中科院2区)</strong></font> 录用！
 - **[2025/01]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被中文顶级学术期刊 <font color="#003399"><strong>计算机研究与发展 (CCF中文T1类)</strong></font> 录用！
 - **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被 <font color="#003399"><strong>CCF CIVS 2024</strong></font> 录用，并荣获 <font color="red"><strong>Best Student Paper Award（最佳学生论文奖）</strong></font>！
@@ -136,6 +141,24 @@ redirect_from:
 <span class='anchor' id='Members'></span>
 
 # 🧑‍🏫 团队成员
+
+- **指导教师：**
+<div style="display: flex; justify-content: space-between; width: 100%; padding: 10px;">
+  <div style="display: flex; align-items: flex-start; width: 30%; gap: 10px;">
+    <img src="images/hanzhen.jpg" alt="Image 1" style="width: 110px; height: auto;">
+    <p style="flex: 1;text-align:justify;">韩臻, 教授, 博导<br /><b>招生专业:</b> 083900网络空间安全、085405软件工程、085412网络与信息安全<br /> <a href="https://faculty.bjtu.edu.cn/5608/" target="_blank">>>点击查看个人主页</a> </p>
+  </div>
+  <div style="display: flex; align-items: flex-start; width: 30%; gap: 10px;">
+    <img src="images/liujiqiang.jpg" alt="Image 2" style="width: 110px; height: auto;">
+    <p style="flex: 1;text-align:justify;">刘吉强, 教授, 博导<br /><b>招生专业:</b> 083900网络空间安全、085405软件工程、085410人工智能、085412网络与信息安全<br /><a href="https://faculty.bjtu.edu.cn/6279/" target="_blank">>>点击查看个人主页</a></p>
+  </div>
+  <div style="display: flex; align-items: flex-start; width: 30%; gap: 10px;">
+    <img src="images/niuwenjia.jpg" alt="Image 3" style="width: 110px; height: auto;">
+    <p style="flex: 1;text-align:justify;">牛温佳, 教授, 博导<br /><b>招生专业:</b> 083900网络空间安全、085405软件工程、085410人工智能、085412网络与信息安全<br /> <a href="http://faculty.bjtu.edu.cn/9120/" target="_blank">>>点击查看个人主页</a></p>
+  </div>
+</div>
+
+
 
 
 - **在读博士生：**
