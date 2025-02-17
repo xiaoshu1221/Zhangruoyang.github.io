@@ -27,7 +27,18 @@ redirect_from:
 # 🏢 实验室简介
 
 <div style="text-align:justify;">
-北京交通大学人工智能安全实验室（THETA Lab, Thorough Evaluation on Threats of AI）隶属于北京交通大学网络空间安全学院，实验室依托“智能交通数据安全与隐私保护技术”北京市重点实验室，长期从事人工智能安全相关研究。目前，实验室主要的研究方向有：深度学习信号制式识别、图表示学习与威胁评估、强化学习与隐私保护、智能交通信号灯的投毒攻击与防御、自动驾驶与车联网安全等。目前实验室有指导教师4人，在读博士生10人，在读硕士生10余人，已毕业研究生30余人。近年来，实验室毕业生均能在政府部门、科研院所及主要的高科技互联网公司就职，如：国家互联网应急中心、铁科院、中科院信工所、阿里、字节、百度、京东、美团、IBM、微软、蚂蚁金服、中国联通、中国移动、中国民生银行、中国农业银行等。（信息更新时间：2025-02-12）</div>
+北京交通大学人工智能安全实验室（THETA Lab, Thorough Evaluation on Threats of AI）隶属于北京交通大学网络空间安全学院，实验室依托“智能交通数据安全与隐私保护技术”北京市重点实验室，长期从事人工智能安全相关研究。目前，实验室主要的研究方向有：深度学习信号制式识别、图表示学习与威胁评估、强化学习与隐私保护、智能交通信号灯的投毒攻击与防御、自动驾驶与车联网安全等。目前实验室有指导教师4人，在读博士生10人，在读硕士生10余人，已毕业研究生30余人。近年来，实验室毕业生均能在政府部门、科研院所及主要的高科技互联网公司就职，如：国家互联网应急中心、铁科院、中科院信工所、阿里、字节、百度、京东、美团、IBM、微软、蚂蚁金服、中国联通、中国移动、中国民生银行、中国农业银行等。实验室有多个办公地点，包括：北京交通大学机械工程楼（主校区原国家保密学院-取证与攻防实验室）、北京交通大学丰台轨道基地（丰台校区）等。实验室为每位科研学生配备了人体工学座椅、23.8/27寸高清显示器、多功能可旋转的机械支架等。实验室还配备了饮水机、冰箱、零食架、吧台、咖啡机、打印机等，为实验室成员提供了舒适的科研和生活环境。（信息更新时间：2025-02-12）</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;margin-top:10px;">
+<img src="images/env1.png" style="width: 15%; height: auto; margin-right: 15px;">
+<img src="images/env2.png" style="width: 15%; height: auto; margin-right: 15px;">
+<img src="images/env3.png" style="width: 15%; height: auto; margin-right: 15px;">
+<img src="images/env4.png" style="width: 15%; height: auto; margin-right: 15px;">
+<img src="images/env5.png" style="width: 15%; height: auto; margin-right: 15px;">
+<img src="images/env6.png" style="width: 15%; height: auto;">
+</div>
+
+
 
 
 
