@@ -131,12 +131,7 @@ redirect_from:
 28. <img src="https://img.shields.io/badge/TGCN-2021-blue?style=flat-square"> Endong Tong, Wenjia Niu, Yunzhe Tian, Jiqiang Liu, Thar Baker, Sandeep Verma, Zheli Liu: A Hierarchical Energy-Efficient Service Selection Approach With QoS Constraints for Internet of Things[J]. IEEE Transactions on Green Communications and Networking, 2021, 5(2): 645-657. <b><font color="#003399">(IEEE汇刊)</font></b>
 29. <img src="https://img.shields.io/badge/SCN-2021-blue?style=flat-square"> Yunzhe Tian, Jiqiang Liu, Endong Tong, Wenjia Niu, Liang Chang, Qi Alfred Chen, Gang Li, Wei Wang: Towards Revealing Parallel Adversarial Attack on Politician Socialnet of Graph Structure[J]. Security and Communication Networks, 2021, 2021. <b><font color="#003399">(SCI中科院4区, 网络空间安全学科高水平期刊)</font></b>
 
-<span class='anchor' id='Honor-and-Reward'></span>
 
-# 🎖 荣誉与获奖
-- *2022.08:* 第30届DEFCON自动驾驶CTF全球挑战赛，团体亚军，主办单位：百度安全、加州大学尔湾分校. 
-- *2021.08:* 第29届DEFCON自动驾驶CTF全球挑战赛，团体亚军，主办单位：百度安全、加州大学尔湾分校.
-- *2022.01:* 国家重点活动安全测试活动，团体一等奖，主办单位：鹏城实验室.
 
 <span class='anchor' id='Members'></span>
 

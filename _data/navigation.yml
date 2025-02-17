@@ -15,8 +15,8 @@ main:
   - title: "科研成果"
     url: "#Publications"
 
-  - title: "荣誉与获奖"
-    url: "#Honor-and-Reward"
+  # - title: "荣誉与获奖"
+    # url: "#Honor-and-Reward"
 
   - title: "团队成员"
     url: "#Members"
