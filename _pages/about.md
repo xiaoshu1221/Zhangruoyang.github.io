@@ -20,7 +20,15 @@ redirect_from:
   </p>
   </div>
 </div>
-<div style="clear: both;"></div>
+<div style="clear: both;"></div><br />
+<p align='center'>
+<img src="https://img.shields.io/badge/北京交通大学-人工智能安全实验室-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/BJTU-THETA-blue?style=flat-square" />
+<img src="https://badges.toozhao.com/badges/01JMDY7QSN0HNPWZE4K9BMQQFT/blue.svg" />
+<img src="https://img.shields.io/github/followers/BJTU-THETA-Lab" />
+<img src="https://img.shields.io/github/license/BJTU-THETA-Lab/BJTU-THETA-Lab.github.io" />
+</p>
+
 
 <span class='anchor' id='Intro'></span>
 
@@ -28,6 +36,7 @@ redirect_from:
 
 <div style="text-align:justify;">
 北京交通大学人工智能安全实验室（THETA Lab, Thorough Evaluation on Threats of AI）隶属于北京交通大学网络空间安全学院，实验室依托“智能交通数据安全与隐私保护技术”北京市重点实验室，长期从事人工智能安全相关研究。目前，实验室主要的研究方向有：深度学习信号制式识别、图表示学习与威胁评估、强化学习与隐私保护、智能交通信号灯的投毒攻击与防御、自动驾驶与车联网安全等。目前实验室有指导教师4人，在读博士生10人，在读硕士生10余人，已毕业研究生30余人。近年来，实验室毕业生均能在政府部门、科研院所及主要的高科技互联网公司就职，如：国家互联网应急中心、铁科院、中科院信工所、阿里、字节、百度、京东、美团、IBM、微软、蚂蚁金服、中国联通、中国移动、中国民生银行、中国农业银行等。实验室有多个办公地点，包括：北京交通大学机械工程楼（主校区原国家保密学院-取证与攻防实验室）、北京交通大学丰台轨道基地（丰台校区）等。实验室为每位科研学生配备了人体工学座椅、23.8/27寸高清显示器、多功能可旋转的机械支架等。实验室还配备了饮水机、冰箱、零食架、吧台、咖啡机、打印机等，为实验室成员提供了舒适的科研和生活环境。（信息更新时间：2025-02-12）</div>
+
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;margin-top:10px;">
 <img src="images/env1.png" style="width: 15%; height: auto; margin-right: 15px;">
@@ -46,7 +55,8 @@ redirect_from:
 <span class='anchor' id='News'></span>
 
 # 🔥 新闻动态
-- **[置顶]** **2025年人工智能安全实验室 (THETA Lab@BJTU) 招生启事:** 欢迎对<font color="#003399"><b>人工智能安全</b></font>、<font color="#003399"><b>大模型安全</b></font>等方向感兴趣的同学 (<font color="E56700"><b>25年秋入学的统考硕士/博士生</b></font>、<font color="E56700"><b>26年秋入学的推免硕士/统考硕士/博士生</b></font>) 报考人工智能安全实验室！实验室期待更多优秀同学的加入！
+- **[置顶]** **人工智能安全实验室(THETA Lab@BJTU)长期招聘:** <font color="E56700"><b>本科生</b></font> (实习、信安/大创/CTF竞赛)、<font color="E56700"><b>硕士生</b></font> (保研/考研)、<font color="E56700"><b>博士生</b></font> (学术博士/工程博士/在职博士) 和 <font color="E56700"><b>科研助理</b></font>，欢迎同学们与我们联系[<a href="#Contact">联系方式见底部</a>]，实验室期待你的加入！
+- **[置顶]** **2025年人工智能安全实验室(THETA Lab@BJTU)招生启事:** 欢迎对<font color="#003399"><b>人工智能安全</b></font>、<font color="#003399"><b>大模型安全</b></font>等方向感兴趣的同学 (<font color="E56700"><b>25年秋入学的统考硕士/博士生</b></font>、<font color="E56700"><b>26年秋入学的推免硕士/统考硕士/博士生</b></font>) 报考人工智能安全实验室[<a href="#Contact">联系方式见底部</a>]！实验室期待更多优秀同学的加入！
 
 ---
 
@@ -140,18 +150,19 @@ redirect_from:
 - **指导教师：**
 <div style="display: flex; justify-content: space-between; width: 100%; padding: 10px;">
   <div style="display: flex; align-items: flex-start; width: 30%; gap: 10px;">
-    <img src="images/hanzhen.jpg" alt="Image 1" style="width: 110px; height: auto;">
-    <p style="flex: 1;text-align:justify;">韩臻, 教授, 博导<br /><b>招生专业:</b> 083900网络空间安全、085405软件工程、085412网络与信息安全<br /> <a href="https://faculty.bjtu.edu.cn/5608/" target="_blank">>>点击查看个人主页</a> </p>
+    <img src="images/hanzhen.jpg" alt="Image 1" style="width: 120px; height: auto;">
+    <p style="flex: 1;text-align:justify;">韩臻, 教授, 博导<br /><b>招生专业:</b><br/>083900网络空间安全<br/>085405软件工程<br/>085412网络与信息安全<br /><br/> <a href="https://faculty.bjtu.edu.cn/5608/" target="_blank">>>点击查看个人主页</a> </p>
   </div>
   <div style="display: flex; align-items: flex-start; width: 30%; gap: 10px;">
-    <img src="images/liujiqiang.jpg" alt="Image 2" style="width: 110px; height: auto;">
-    <p style="flex: 1;text-align:justify;">刘吉强, 教授, 博导<br /><b>招生专业:</b> 083900网络空间安全、085405软件工程、085410人工智能、085412网络与信息安全<br /><a href="https://faculty.bjtu.edu.cn/6279/" target="_blank">>>点击查看个人主页</a></p>
+    <img src="images/liujiqiang.jpg" alt="Image 2" style="width: 120px; height: auto;">
+    <p style="flex: 1;text-align:justify;">刘吉强, 教授, 博导<br /><b>招生专业:</b><br/>083900网络空间安全<br/>085405软件工程<br/>085410人工智能<br/>085412网络与信息安全<br /><a href="https://faculty.bjtu.edu.cn/6279/" target="_blank">>>点击查看个人主页</a></p>
   </div>
   <div style="display: flex; align-items: flex-start; width: 30%; gap: 10px;">
-    <img src="images/niuwenjia.jpg" alt="Image 3" style="width: 110px; height: auto;">
-    <p style="flex: 1;text-align:justify;">牛温佳, 教授, 博导<br /><b>招生专业:</b> 083900网络空间安全、085405软件工程、085410人工智能、085412网络与信息安全<br /> <a href="http://faculty.bjtu.edu.cn/9120/" target="_blank">>>点击查看个人主页</a></p>
+    <img src="images/niuwenjia.jpg" alt="Image 3" style="width: 120px; height: auto;">
+    <p style="flex: 1;text-align:justify;">牛温佳, 教授, 博导<br /><b>招生专业:</b><br/>083900网络空间安全<br/>085405软件工程<br/>085410人工智能<br/>085412网络与信息安全<br /> <a href="http://faculty.bjtu.edu.cn/9120/" target="_blank">>>点击查看个人主页</a></p>
   </div>
 </div>
+
 
 
 
@@ -209,9 +220,9 @@ redirect_from:
 
 - **本科毕业生（含原CTF战队、大创项目、信安竞赛、本科毕设等成员）：**
     - 2024届：李兆曦（原CTF战队成员），清华大学读研，北京
-    - 2024届：尚文韬，中山大学读研，广州
-    - 2024届：赵怡雯（原CTF战队成员、大创项目成员），美国南加利福尼亚大学（USC），美国
-    - 2024届：梁庆庆（大创项目成员），北京交通大学读研，北京
+    - 2024届：尚文韬（原CTF战队成员），中山大学读研，广州
+    - 2024届：赵怡雯（原CTF战队成员、大创项目成员、信安竞赛成员），美国南加利福尼亚大学（USC），美国
+    - 2024届：梁庆庆（大创项目成员、信安竞赛成员），北京交通大学读研，北京
     - 2024届：刘国涛（原CTF战队成员），北京交通大学读研，北京
     - 2023届：李虹良（原CTF战队成员），北京交通大学读研，北京
     - 2023届：龙程（原CTF战队成员），北京交通大学读研，北京
@@ -232,11 +243,11 @@ redirect_from:
 
 # 📮 联系我们
 
-- 地址：北京市海淀区上园村3号北京交通大学机械工程楼
+- **地址：** 北京市海淀区上园村3号北京交通大学机械工程楼
 
-- 邮箱：<a href="mailto:niuwj@bjtu.edu.cn">niuwj@bjtu.edu.cn</a>
+- **联系方式：** 请准备**个人简历** [pdf格式]+**自荐信** [若有其他获奖材料可附件]，发送至实验室负责人邮箱：<a href="mailto:niuwj@bjtu.edu.cn">niuwj@bjtu.edu.cn</a> [牛老师]，实验室会尽快组织安排面试。实验室期待你的加入！
 
-- 交通方式：
+- **交通方式：** 
 
   交大西门：16路、26路、94路、603路，大柳树南站下；
 
