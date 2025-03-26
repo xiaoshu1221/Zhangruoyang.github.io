@@ -60,11 +60,12 @@ redirect_from:
 
 ---
 
+- **[2025/03]** <font color="red"><strong>喜报!</strong></font> 实验室2篇论文被国际学术会议 <font color="#003399"><strong>DSN 2024 (CCF-B)</strong></font> 录用！
 - **[2025/02]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Transactions on Emerging Topics in Computing (TETC, 中科院2区)</strong></font> 录用！
 - **[2025/01]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被中文顶级学术期刊 <font color="#003399"><strong>计算机研究与发展 (CCF中文T1类)</strong></font> 录用！
 - **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被 <font color="#003399"><strong>CCF CIVS 2024</strong></font> 录用，并荣获 <font color="red"><strong>Best Student Paper Award（最佳学生论文奖）</strong></font>！
 - **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>IEEE Transactions on Industrial Cyber-Physical Systems (TICPS)</strong></font> 录用！
-- **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>International Journal of Intelligent Systems (IJIS, 中科院2区)</strong></font>  录用！
+- **[2024/10]** <font color="red"><strong>喜报!</strong></font> 实验室2篇论文被国际学术期刊 <font color="#003399"><strong>International Journal of Intelligent Systems (IJIS, 中科院2区)</strong></font>  录用！
 - **[2024/09]** <font color="red"><strong>喜报!</strong></font> 实验室2篇论文被国际学术会议 <font color="#003399"><strong>ADMA 2024 (CCF-C)</strong></font> 录用！
 - **[2024/09]** <font color="red"><strong>喜报!</strong></font> 实验室1篇论文被国际学术期刊 <font color="#003399"><strong>Symmetry (中科院3区)</strong></font> 录用！
 - **[2024/05]** <font color="red"><strong>喜报!</strong></font> 实验室2篇论文被国际学术会议 <font color="#003399"><strong>KSEM 2024 (CCF-C)</strong></font> 录用！
